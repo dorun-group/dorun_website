@@ -1,0 +1,2 @@
+(this.webpackJsonpdorun=this.webpackJsonpdorun||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var c=t(0),r=t(1),s=t.n(r),a=t(3),i=t.n(a);t(9);var o=function(){return Object(c.jsxs)(s.a.Fragment,{children:[Object(c.jsx)("h1",{className:"center",children:"Dorun Group"}),Object(c.jsx)("h4",{className:"center",children:"Website under maintenance"})]})};i.a.render(Object(c.jsx)(s.a.StrictMode,{children:Object(c.jsx)(o,{})}),document.getElementById("root"))},9:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.158fc85c.chunk.js.map
