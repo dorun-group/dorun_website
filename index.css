@@ -45,3 +45,53 @@ hr {
     rgba(255, 255, 255, 0)
   );
 }
+
+.Parent {
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.Container {
+  width: 100%;
+}
+
+.activeSlide {
+  width: 100%;
+}
+
+.nextSlide {
+  transform: translateX(100%);
+  display: none;
+}
+
+.lastSlide {
+  transform: translateX(-100%);
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .Container {
+    width: 768px;
+  }
+}
+
+@media (min-width: 992px) {
+  .Parent {
+    top: 120px;
+  }
+  .Container {
+    width: 992px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .Parent {
+    top: 140px;
+  }
+  .Container {
+    width: 1200px;
+  }
+}
