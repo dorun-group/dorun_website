@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ce51039.chunk.css",
+    "main.css": "/static/css/main.0b21e3cc.chunk.css",
     "main.js": "/static/js/main.613d2439.chunk.js",
     "main.js.map": "/static/js/main.613d2439.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.44bc15d9.js",
@@ -8,7 +8,7 @@
     "static/js/2.35236470.chunk.js": "/static/js/2.35236470.chunk.js",
     "static/js/2.35236470.chunk.js.map": "/static/js/2.35236470.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.7ce51039.chunk.css.map": "/static/css/main.7ce51039.chunk.css.map",
+    "static/css/main.0b21e3cc.chunk.css.map": "/static/css/main.0b21e3cc.chunk.css.map",
     "static/js/2.35236470.chunk.js.LICENSE.txt": "/static/js/2.35236470.chunk.js.LICENSE.txt",
     "static/media/dorunLogo.a222c3de.svg": "/static/media/dorunLogo.a222c3de.svg",
     "static/media/slider_builders.ea50799e.png": "/static/media/slider_builders.ea50799e.png",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.44bc15d9.js",
     "static/js/2.35236470.chunk.js",
-    "static/css/main.7ce51039.chunk.css",
+    "static/css/main.0b21e3cc.chunk.css",
     "static/js/main.613d2439.chunk.js"
   ]
 }
