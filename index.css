@@ -58,6 +58,7 @@ hr {
 
 .Container {
   width: 100%;
+  overflow: hidden;
 }
 
 .activeSlide {
