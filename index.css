@@ -75,6 +75,23 @@ hr {
   display: none;
 }
 
+.loading {
+  margin-top: 20px;
+  border-radius: 20px;
+  height: 20px;
+  background-color: var(--primary-blue);
+  animation: load 4000ms ease-in-out forwards;
+}
+
+@keyframes load {
+  from {
+    width: 10%;
+  }
+  to {
+    width: 60%;
+  }
+}
+
 @media (min-width: 768px) {
   .Container {
     width: 768px;
