@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e61eca8.chunk.css",
-    "main.js": "/static/js/main.d88ac446.chunk.js",
-    "main.js.map": "/static/js/main.d88ac446.chunk.js.map",
+    "main.css": "/static/css/main.fb89de2b.chunk.css",
+    "main.js": "/static/js/main.dbd9449d.chunk.js",
+    "main.js.map": "/static/js/main.dbd9449d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.44bc15d9.js",
     "runtime-main.js.map": "/static/js/runtime-main.44bc15d9.js.map",
-    "static/js/2.62eeb212.chunk.js": "/static/js/2.62eeb212.chunk.js",
-    "static/js/2.62eeb212.chunk.js.map": "/static/js/2.62eeb212.chunk.js.map",
+    "static/js/2.e9d4c748.chunk.js": "/static/js/2.e9d4c748.chunk.js",
+    "static/js/2.e9d4c748.chunk.js.map": "/static/js/2.e9d4c748.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.5e61eca8.chunk.css.map": "/static/css/main.5e61eca8.chunk.css.map",
-    "static/js/2.62eeb212.chunk.js.LICENSE.txt": "/static/js/2.62eeb212.chunk.js.LICENSE.txt",
+    "static/css/main.fb89de2b.chunk.css.map": "/static/css/main.fb89de2b.chunk.css.map",
+    "static/js/2.e9d4c748.chunk.js.LICENSE.txt": "/static/js/2.e9d4c748.chunk.js.LICENSE.txt",
     "static/media/business_dorun.69ea63f4.png": "/static/media/business_dorun.69ea63f4.png",
     "static/media/dorunLogo.a222c3de.svg": "/static/media/dorunLogo.a222c3de.svg",
     "static/media/dorun_mission.059b210b.png": "/static/media/dorun_mission.059b210b.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.44bc15d9.js",
-    "static/js/2.62eeb212.chunk.js",
-    "static/css/main.5e61eca8.chunk.css",
-    "static/js/main.d88ac446.chunk.js"
+    "static/js/2.e9d4c748.chunk.js",
+    "static/css/main.fb89de2b.chunk.css",
+    "static/js/main.dbd9449d.chunk.js"
   ]
 }
